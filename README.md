@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a third-year Computer Science student at the **University of Information Technology (UIT), Myanmar**, interested in software engineering, backend development, and practical applications of AI.
+I'm a second-year Computer Science student at the **University of Information Technology (UIT), Myanmar**, interested in software engineering, backend development, and practical applications of AI.
 
 - 💻 I build projects to strengthen my skills in programming, web development, and databases.
 - 🐍 I'm currently focusing on **Python backend development**, SQL, and full-stack fundamentals.
