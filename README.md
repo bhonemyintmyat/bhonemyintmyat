@@ -10,8 +10,20 @@
   <h2>Hi, I'm Phone Myint Myat 👋</h2>
   <p><strong>I enjoy turning ideas into useful software.</strong></p>
   <p>
-    <a href="https://github.com/bhonemyintmyat"><img src="https://img.shields.io/badge/GitHub-bhonemyintmyat-181717?style=flat&logo=github" alt="GitHub" /></a>
-    <a href="https://www.linkedin.com/in/phone-myint-myat-06b3a0273/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+   
+<h3>Connect with me</h3>
+
+<p align="left">
+  <a href="https://github.com/bhonemyintmyat">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/phone-myint-myat-06b3a0273/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://portfolio-one-snowy-gvgwdeadec.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
   </p>
 </div>
 
